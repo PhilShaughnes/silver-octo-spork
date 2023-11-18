@@ -6,4 +6,5 @@ import (
 
 func main() {
 	fmt.Println(hi("World"))
+	fmt.Println(bye("World"))
 }

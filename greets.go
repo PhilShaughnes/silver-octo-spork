@@ -7,3 +7,8 @@ func hi(s string) string {
   }
   return greet + "!"
 }
+
+func bye(s string) string {
+  farewell := "Goodbye"
+  return farewell + " " + s
+}
